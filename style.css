@@ -454,7 +454,7 @@ a.social:hover {
     text-align: left;
     box-shadow: 3px 0px #324250;
     margin-right: 54%;
-    animation: esquerda 11s;
+    animation: esquerda 5.5s;
 
     .dark & {
         box-shadow: 3px 0px #a77312;
